@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 497df0a28eb4564408e7592a96c13b9e
+timeCreated: 1492911755
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _158-32-FTO
+    100002: __U10
+    100004: __U14
+    100006: __U4
+    100008: __U5
+    100010: __U5 1
+    100012: __U5 10
+    100014: __U5 11
+    100016: __U5 12
+    100018: __U5 13
+    100020: __U5 14
+    100022: __U5 15
+    100024: __U5 16
+    100026: __U5 17
+    100028: __U5 18
+    100030: __U5 19
+    100032: __U5 2
+    100034: __U5 20
+    100036: __U5 21
+    100038: __U5 22
+    100040: __U5 23
+    100042: __U5 24
+    100044: __U5 25
+    100046: __U5 26
+    100048: __U5 27
+    100050: __U5 28
+    100052: __U5 29
+    100054: __U5 3
+    100056: __U5 30
+    100058: __U5 31
+    100060: __U5 32
+    100062: __U5 33
+    100064: __U5 34
+    100066: __U5 35
+    100068: __U5 36
+    100070: __U5 37
+    100072: __U5 38
+    100074: __U5 39
+    100076: __U5 4
+    100078: __U5 40
+    100080: __U5 41
+    100082: __U5 42
+    100084: __U5 43
+    100086: __U5 44
+    100088: __U5 45
+    100090: __U5 46
+    100092: __U5 47
+    100094: __U5 48
+    100096: __U5 5
+    100098: __U5 6
+    100100: __U5 7
+    100102: __U5 8
+    100104: __U5 9
+    100106: __U6
+    100108: __U6 1
+    100110: __U7
+    100112: __U8
+    100114: __U9
+    100116: __U9 1
+    100118: ID88
+    100120: image_0
+    100122: instance_0
+    100124: instance_1
+    100126: instance_10
+    100128: instance_11
+    100130: instance_12
+    100132: instance_13
+    100134: instance_14
+    100136: instance_15
+    100138: instance_16
+    100140: instance_17
+    100142: instance_18
+    100144: instance_19
+    100146: instance_2
+    100148: instance_20
+    100150: instance_21
+    100152: instance_22
+    100154: instance_23
+    100156: instance_24
+    100158: instance_25
+    100160: instance_26
+    100162: instance_27
+    100164: instance_28
+    100166: instance_29
+    100168: instance_3
+    100170: instance_30
+    100172: instance_31
+    100174: instance_32
+    100176: instance_33
+    100178: instance_34
+    100180: instance_35
+    100182: instance_36
+    100184: instance_37
+    100186: instance_38
+    100188: instance_39
+    100190: instance_4
+    100192: instance_40
+    100194: instance_41
+    100196: instance_42
+    100198: instance_43
+    100200: instance_44
+    100202: instance_45
+    100204: instance_46
+    100206: instance_47
+    100208: instance_48
+    100210: instance_49
+    100212: instance_5
+    100214: instance_50
+    100216: instance_51
+    100218: instance_52
+    100220: instance_53
+    100222: instance_54
+    100224: instance_55
+    100226: instance_56
+    100228: instance_57
+    100230: instance_58
+    100232: instance_6
+    100234: instance_7
+    100236: instance_8
+    100238: instance_9
+    100240: //RootNode
+    100242: RND
+    100244: skp_camera_Last_Saved_SketchUp_View
+    400000: _158-32-FTO
+    400002: __U10
+    400004: __U14
+    400006: __U4
+    400008: __U5
+    400010: __U5 1
+    400012: __U5 10
+    400014: __U5 11
+    400016: __U5 12
+    400018: __U5 13
+    400020: __U5 14
+    400022: __U5 15
+    400024: __U5 16
+    400026: __U5 17
+    400028: __U5 18
+    400030: __U5 19
+    400032: __U5 2
+    400034: __U5 20
+    400036: __U5 21
+    400038: __U5 22
+    400040: __U5 23
+    400042: __U5 24
+    400044: __U5 25
+    400046: __U5 26
+    400048: __U5 27
+    400050: __U5 28
+    400052: __U5 29
+    400054: __U5 3
+    400056: __U5 30
+    400058: __U5 31
+    400060: __U5 32
+    400062: __U5 33
+    400064: __U5 34
+    400066: __U5 35
+    400068: __U5 36
+    400070: __U5 37
+    400072: __U5 38
+    400074: __U5 39
+    400076: __U5 4
+    400078: __U5 40
+    400080: __U5 41
+    400082: __U5 42
+    400084: __U5 43
+    400086: __U5 44
+    400088: __U5 45
+    400090: __U5 46
+    400092: __U5 47
+    400094: __U5 48
+    400096: __U5 5
+    400098: __U5 6
+    400100: __U5 7
+    400102: __U5 8
+    400104: __U5 9
+    400106: __U6
+    400108: __U6 1
+    400110: __U7
+    400112: __U8
+    400114: __U9
+    400116: __U9 1
+    400118: ID88
+    400120: image_0
+    400122: instance_0
+    400124: instance_1
+    400126: instance_10
+    400128: instance_11
+    400130: instance_12
+    400132: instance_13
+    400134: instance_14
+    400136: instance_15
+    400138: instance_16
+    400140: instance_17
+    400142: instance_18
+    400144: instance_19
+    400146: instance_2
+    400148: instance_20
+    400150: instance_21
+    400152: instance_22
+    400154: instance_23
+    400156: instance_24
+    400158: instance_25
+    400160: instance_26
+    400162: instance_27
+    400164: instance_28
+    400166: instance_29
+    400168: instance_3
+    400170: instance_30
+    400172: instance_31
+    400174: instance_32
+    400176: instance_33
+    400178: instance_34
+    400180: instance_35
+    400182: instance_36
+    400184: instance_37
+    400186: instance_38
+    400188: instance_39
+    400190: instance_4
+    400192: instance_40
+    400194: instance_41
+    400196: instance_42
+    400198: instance_43
+    400200: instance_44
+    400202: instance_45
+    400204: instance_46
+    400206: instance_47
+    400208: instance_48
+    400210: instance_49
+    400212: instance_5
+    400214: instance_50
+    400216: instance_51
+    400218: instance_52
+    400220: instance_53
+    400222: instance_54
+    400224: instance_55
+    400226: instance_56
+    400228: instance_57
+    400230: instance_58
+    400232: instance_6
+    400234: instance_7
+    400236: instance_8
+    400238: instance_9
+    400240: //RootNode
+    400242: RND
+    400244: skp_camera_Last_Saved_SketchUp_View
+    2300000: __U10
+    2300002: __U14
+    2300004: __U4
+    2300006: __U5
+    2300008: __U5 1
+    2300010: __U5 10
+    2300012: __U5 11
+    2300014: __U5 12
+    2300016: __U5 13
+    2300018: __U5 14
+    2300020: __U5 15
+    2300022: __U5 16
+    2300024: __U5 17
+    2300026: __U5 18
+    2300028: __U5 19
+    2300030: __U5 2
+    2300032: __U5 20
+    2300034: __U5 21
+    2300036: __U5 22
+    2300038: __U5 23
+    2300040: __U5 24
+    2300042: __U5 25
+    2300044: __U5 26
+    2300046: __U5 27
+    2300048: __U5 28
+    2300050: __U5 29
+    2300052: __U5 3
+    2300054: __U5 30
+    2300056: __U5 31
+    2300058: __U5 32
+    2300060: __U5 33
+    2300062: __U5 34
+    2300064: __U5 35
+    2300066: __U5 36
+    2300068: __U5 37
+    2300070: __U5 38
+    2300072: __U5 39
+    2300074: __U5 4
+    2300076: __U5 40
+    2300078: __U5 41
+    2300080: __U5 42
+    2300082: __U5 43
+    2300084: __U5 44
+    2300086: __U5 45
+    2300088: __U5 46
+    2300090: __U5 47
+    2300092: __U5 48
+    2300094: __U5 5
+    2300096: __U5 6
+    2300098: __U5 7
+    2300100: __U5 8
+    2300102: __U5 9
+    2300104: __U6
+    2300106: __U6 1
+    2300108: __U7
+    2300110: __U8
+    2300112: __U9
+    2300114: __U9 1
+    2300116: ID88
+    2300118: image_0
+    3300000: __U10
+    3300002: __U14
+    3300004: __U4
+    3300006: __U5
+    3300008: __U5 1
+    3300010: __U5 10
+    3300012: __U5 11
+    3300014: __U5 12
+    3300016: __U5 13
+    3300018: __U5 14
+    3300020: __U5 15
+    3300022: __U5 16
+    3300024: __U5 17
+    3300026: __U5 18
+    3300028: __U5 19
+    3300030: __U5 2
+    3300032: __U5 20
+    3300034: __U5 21
+    3300036: __U5 22
+    3300038: __U5 23
+    3300040: __U5 24
+    3300042: __U5 25
+    3300044: __U5 26
+    3300046: __U5 27
+    3300048: __U5 28
+    3300050: __U5 29
+    3300052: __U5 3
+    3300054: __U5 30
+    3300056: __U5 31
+    3300058: __U5 32
+    3300060: __U5 33
+    3300062: __U5 34
+    3300064: __U5 35
+    3300066: __U5 36
+    3300068: __U5 37
+    3300070: __U5 38
+    3300072: __U5 39
+    3300074: __U5 4
+    3300076: __U5 40
+    3300078: __U5 41
+    3300080: __U5 42
+    3300082: __U5 43
+    3300084: __U5 44
+    3300086: __U5 45
+    3300088: __U5 46
+    3300090: __U5 47
+    3300092: __U5 48
+    3300094: __U5 5
+    3300096: __U5 6
+    3300098: __U5 7
+    3300100: __U5 8
+    3300102: __U5 9
+    3300104: __U6
+    3300106: __U6 1
+    3300108: __U7
+    3300110: __U8
+    3300112: __U9
+    3300114: __U9 1
+    3300116: ID88
+    3300118: image_0
+    4300000: __U5
+    4300002: __U10
+    4300004: __U14
+    4300006: ID88
+    4300008: __U4
+    4300010: __U6
+    4300012: __U7
+    4300014: __U8
+    4300016: __U9
+    4300018: image_0
+    6400000: __U10
+    6400002: __U14
+    6400004: __U4
+    6400006: __U5
+    6400008: __U5 1
+    6400010: __U5 10
+    6400012: __U5 11
+    6400014: __U5 12
+    6400016: __U5 13
+    6400018: __U5 14
+    6400020: __U5 15
+    6400022: __U5 16
+    6400024: __U5 17
+    6400026: __U5 18
+    6400028: __U5 19
+    6400030: __U5 2
+    6400032: __U5 20
+    6400034: __U5 21
+    6400036: __U5 22
+    6400038: __U5 23
+    6400040: __U5 24
+    6400042: __U5 25
+    6400044: __U5 26
+    6400046: __U5 27
+    6400048: __U5 28
+    6400050: __U5 29
+    6400052: __U5 3
+    6400054: __U5 30
+    6400056: __U5 31
+    6400058: __U5 32
+    6400060: __U5 33
+    6400062: __U5 34
+    6400064: __U5 35
+    6400066: __U5 36
+    6400068: __U5 37
+    6400070: __U5 38
+    6400072: __U5 39
+    6400074: __U5 4
+    6400076: __U5 40
+    6400078: __U5 41
+    6400080: __U5 42
+    6400082: __U5 43
+    6400084: __U5 44
+    6400086: __U5 45
+    6400088: __U5 46
+    6400090: __U5 47
+    6400092: __U5 48
+    6400094: __U5 5
+    6400096: __U5 6
+    6400098: __U5 7
+    6400100: __U5 8
+    6400102: __U5 9
+    6400104: __U6
+    6400106: __U6 1
+    6400108: __U7
+    6400110: __U8
+    6400112: __U9
+    6400114: __U9 1
+    6400116: ID88
+    6400118: image_0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

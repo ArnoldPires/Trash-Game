@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 219bf616699ea7840a62f2315d0bcdbe
+timeCreated: 1492929879
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ichigo-02
+    100002: Ichigo-02 1
+    100004: Ichigo-04
+    100006: ID101
+    100008: ID111
+    100010: ID24
+    100012: ID24 1
+    100014: ID51
+    100016: ID61
+    100018: ID71
+    100020: ID81
+    100022: ID91
+    100024: instance_0
+    100026: instance_1
+    100028: instance_2
+    100030: instance_3
+    100032: instance_4
+    100034: //RootNode
+    100036: Piatto
+    100038: skp_camera_Last_Saved_SketchUp_View
+    100040: Tovagliolo
+    400000: Ichigo-02
+    400002: Ichigo-02 1
+    400004: Ichigo-04
+    400006: ID101
+    400008: ID111
+    400010: ID24
+    400012: ID24 1
+    400014: ID51
+    400016: ID61
+    400018: ID71
+    400020: ID81
+    400022: ID91
+    400024: instance_0
+    400026: instance_1
+    400028: instance_2
+    400030: instance_3
+    400032: instance_4
+    400034: //RootNode
+    400036: Piatto
+    400038: skp_camera_Last_Saved_SketchUp_View
+    400040: Tovagliolo
+    2300000: Ichigo-02
+    2300002: Ichigo-02 1
+    2300004: Ichigo-04
+    2300006: ID101
+    2300008: ID111
+    2300010: ID24
+    2300012: ID24 1
+    2300014: ID51
+    2300016: ID61
+    2300018: ID71
+    2300020: ID81
+    2300022: ID91
+    2300024: Piatto
+    2300026: Tovagliolo
+    3300000: Ichigo-02
+    3300002: Ichigo-02 1
+    3300004: Ichigo-04
+    3300006: ID101
+    3300008: ID111
+    3300010: ID24
+    3300012: ID24 1
+    3300014: ID51
+    3300016: ID61
+    3300018: ID71
+    3300020: ID81
+    3300022: ID91
+    3300024: Piatto
+    3300026: Tovagliolo
+    4300000: Ichigo-02
+    4300002: ID24
+    4300004: Ichigo-04
+    4300006: ID51
+    4300008: ID61
+    4300010: ID71
+    4300012: ID81
+    4300014: ID91
+    4300016: ID101
+    4300018: ID111
+    4300020: Tovagliolo
+    4300022: Piatto
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
